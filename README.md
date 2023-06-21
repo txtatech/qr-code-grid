@@ -19,7 +19,7 @@ A Python script that generates a 3D grid of QR codes with associated information
 1. Clone the repository or download the script file (`qr-code-grid.py`).
 2. Install the required Python packages: `pip install qrcode`.
 3. Run the script: `python qr-code-grid.py`.
-4. The script will generate the QR code images, save them in PNG format, and create an HTML page (`index.html`).
+4. The script will generate the QR code images, save them in PNG and TXT format, and create an HTML page (`index.html`).
 5. Open the `index.html` file in a web browser to view the 3D grid of QR codes.
 
 ## Customization
