@@ -27,3 +27,7 @@ A Python script that generates a 3D grid of QR codes with associated information
 - Adjust the `grid_size` variable in the script to change the size of the grid.
 - Modify the appearance of the QR codes by adjusting the parameters in the `generate_qr_with_info` function.
 - Customize the generated HTML page by modifying the `generate_x3dom_page` function.
+
+- ![Image alt text](.qr-code-grid
+/qr-code-grid.png)
+
